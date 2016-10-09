@@ -1,0 +1,6 @@
+Charmander,282,hhkhkhk
+Squirtle,292
+Bulbasaur,294
+Pikachu,274
+Magikarp,244
+Pidgey,190

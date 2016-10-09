@@ -1,0 +1,4 @@
+Ember,40,100,25
+Flamethrower,90,100,15
+Blast burn,150,90,5
+Scratch,45,70,35

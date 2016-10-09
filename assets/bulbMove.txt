@@ -1,0 +1,4 @@
+Tackle,50,100,35
+Vine Whip,45,100,10
+Cut,50,95,30
+Solar Beam,120,100,5

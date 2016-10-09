@@ -1,0 +1,4 @@
+Tackle,50,100,35
+Water Gun,40,100,25
+Hydro Pump,110,80,5
+Bite,60,100,40

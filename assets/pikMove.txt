@@ -1,0 +1,4 @@
+Thunder Shock,40,100,30
+Quick Attack,40,100,30
+Thunder,110,70,10
+Thunderbolt,90,100,15

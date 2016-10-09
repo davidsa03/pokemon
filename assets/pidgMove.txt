@@ -1,0 +1,4 @@
+Tackle,50,100,35
+Wing Attack,60,100,35
+Steel Wing,70,90,25
+Hurricane,110,70,5
